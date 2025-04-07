@@ -13,3 +13,7 @@ def exercice(valeur):
         partie_decroissante = for j in range(i - 1, 0, -1))
         print(espaces + partie_croissante + partie_decroissante)
      return etoiles
+if __name__ == "__main__":
+  app.run(debug=True)
+ 
+
